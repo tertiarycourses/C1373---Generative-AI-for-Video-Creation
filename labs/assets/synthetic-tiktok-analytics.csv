@@ -1,0 +1,7 @@
+Video ID,Variant,Views,2-second Views,6-second Views,Completed Views,Average Watch Seconds,Likes,Comments,Shares,Saves,Profile Visits,Link Clicks,Duration Seconds,Audience,Notes
+HB-01,Primary hook baseline,12400,10300,7100,3650,18.4,740,88,156,412,205,61,32,Office workers,Hero video baseline
+HB-02,Alternate visual-first hook,13100,11450,7850,3810,18.9,765,91,173,438,221,68,32,Office workers,Only opening changed
+HB-03,Dense beat-two captions,11900,9820,6420,2870,16.2,651,70,128,315,174,49,32,Office workers,Caption density increased
+HB-04,Shorter beat two,12800,10650,7640,4020,19.8,782,96,184,466,237,72,30,Office workers,Beat two shortened by two seconds
+HB-05,Ingredient explainer,9700,7520,4860,2510,17.1,544,82,101,287,151,42,34,Home brewers,Different pillar and audience context
+HB-06,Equipment routine,10500,8610,5720,3050,17.8,603,77,133,332,169,46,31,Office workers,Different subject and hook
